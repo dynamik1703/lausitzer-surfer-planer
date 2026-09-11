@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Lausitzer Surfer">
+  <rect width="32" height="32" rx="7" fill="#ffffff" stroke="#d4d4d8" />
+  <path d="M4 21c3 0 3-2.6 6-2.6s3 2.6 6 2.6 3-2.6 6-2.6 3 2.6 6 2.6" fill="none" stroke="#15803d" stroke-width="2.4" stroke-linecap="round" />
+  <path d="M4 26c3 0 3-2.6 6-2.6s3 2.6 6 2.6 3-2.6 6-2.6 3 2.6 6 2.6" fill="none" stroke="#86efac" stroke-width="2.4" stroke-linecap="round" />
+  <path d="M20 5 12 16h5l-1 0" fill="none" stroke="#18181b" stroke-width="2.2" stroke-linejoin="round" />
+</svg>

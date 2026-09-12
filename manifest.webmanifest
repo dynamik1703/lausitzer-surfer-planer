@@ -1,0 +1,15 @@
+{
+  "name": "Lausitzer Surfer – Spot- und Fahrtenplaner",
+  "short_name": "Surfplaner",
+  "description": "Wo geht heute was? Windprognose, Vereinsspots und Fahrten an einem Ort.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#05583d",
+  "background_color": "#ffffff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
